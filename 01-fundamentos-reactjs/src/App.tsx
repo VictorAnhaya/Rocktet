@@ -11,7 +11,7 @@ const post = [
         author:{
             avatarUrl:'https://github.com/VictorAnhaya.png',
             name: 'Victor Anhaya',
-            role: 'Matador do Pcc'
+            role: 'Desenvolvedor Full Stack'
         },
         content:[
             {type: 'paragraph', content: 'Fala galeraa 👋'},
